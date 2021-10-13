@@ -1,7 +1,7 @@
 # Laravel-8-Rest-API-Simple-Example
 Simple Example laravel rest API for Beginner
 
-# Conroller Code 
+# UserController Code 
 
 ```
 <?php
